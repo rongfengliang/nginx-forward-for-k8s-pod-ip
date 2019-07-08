@@ -9,3 +9,7 @@ kubect apply -f ./k8s
 ```
 
 * config os proxy
+
+## some notes
+
+you may need change nginx resovler address to your dns server service ip
